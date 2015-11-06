@@ -1,5 +1,7 @@
 # AG Ants
 
+[![Join the chat at https://gitter.im/erichilarysmithsr/ag-ants](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erichilarysmithsr/ag-ants?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A specialisation of [AG Common](https://github.com/luizfilipeabrahao/ag-common) that 
 describes a colony of ants and its main components (Ants and Nests) and the 
 environment (Chemical communication and food sources) necessary to simulate the 
